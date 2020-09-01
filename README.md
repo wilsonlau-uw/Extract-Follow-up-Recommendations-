@@ -22,6 +22,6 @@ Wilson Lau, Thomas H. Payne, MD, Ozlem Uzuner, PhD, Meliha Yetisgen, PhD
     year = "2020",
     address = "Houston, Texas, USA",
     publisher = "American Medical Informatics Association",
-    url = "https://knowledge.amia.org/71623-amia-1.4589302/t0003-1.4591021/t0003-1.4591022/a048-1.4591158/an048-1.4591159"
+    url = "https://knowledge.amia.org/71623-amia-1.4589302/t0003-1.4591021/t0003-1.4591022/a048-1.4591158/an048-1.4591159" or "https://arxiv.org/abs/1905.05877"
 }
 ```
