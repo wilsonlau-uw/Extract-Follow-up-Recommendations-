@@ -14,7 +14,7 @@ Clinical experimental data are not included to comply with HIPAA Privacy.
  
 Wilson Lau, Thomas H. Payne, MD, Ozlem Uzuner, PhD, Meliha Yetisgen, PhD
 ```
-@inproceedings{alsentzer-etal-2019-publicly,
+@inproceedings{ 
     title = "Extraction and Analysis of Clinically Important Follow-up Recommendations in a Large Radiology Dataset",
     author = "Wilson Lau, Thomas H. Payne, MD, Ozlem Uzuner, PhD, Meliha Yetisgen, PhD",
     booktitle = "Proceedings of the AMIA 2020 INFORMATICS SUMMIT",
