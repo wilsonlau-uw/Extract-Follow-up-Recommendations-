@@ -1,6 +1,6 @@
 # Extract-Follow-up-Recommendations
 
-Repository for [Extraction and Analysis of Clinically Important Follow-up Recommendations in a Large Radiology Dataset](https://knowledge.amia.org/71623-amia-1.4589302/t0003-1.4591021/t0003-1.4591022/a048-1.4591158/an048-1.4591159) (AMIA 2020 INFORMATICS SUMMIT)
+Repository for [Extraction and Analysis of Clinically Important Follow-up Recommendations in a Large Radiology Dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233090/) (AMIA 2020 INFORMATICS SUMMIT)
 
  
 #### Note
